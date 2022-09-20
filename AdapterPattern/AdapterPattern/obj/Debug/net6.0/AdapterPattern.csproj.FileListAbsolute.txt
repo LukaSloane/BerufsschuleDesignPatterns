@@ -1,0 +1,15 @@
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/bin/Debug/net6.0/AdapterPattern
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/bin/Debug/net6.0/AdapterPattern.deps.json
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/bin/Debug/net6.0/AdapterPattern.runtimeconfig.json
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/bin/Debug/net6.0/AdapterPattern.dll
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/bin/Debug/net6.0/AdapterPattern.pdb
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.csproj.AssemblyReference.cache
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.AssemblyInfoInputs.cache
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.AssemblyInfo.cs
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.csproj.CoreCompileInputs.cache
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.dll
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/refint/AdapterPattern.dll
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.pdb
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/AdapterPattern.genruntimeconfig.cache
+/Users/lukasloane/RiderProjects/AdapterPattern/AdapterPattern/obj/Debug/net6.0/ref/AdapterPattern.dll
