@@ -1,0 +1,15 @@
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/bin/Debug/net6.0/VW_Uebung
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/bin/Debug/net6.0/VW_Uebung.deps.json
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/bin/Debug/net6.0/VW_Uebung.runtimeconfig.json
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/bin/Debug/net6.0/VW_Uebung.dll
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/bin/Debug/net6.0/VW_Uebung.pdb
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.csproj.AssemblyReference.cache
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.AssemblyInfoInputs.cache
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.AssemblyInfo.cs
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.csproj.CoreCompileInputs.cache
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.dll
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/refint/VW_Uebung.dll
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.pdb
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/VW_Uebung.genruntimeconfig.cache
+/Users/lukasloane/RiderProjects/Abgabe_Vuko_Factory_DesignPattern/VW_Uebung/VW_Uebung/obj/Debug/net6.0/ref/VW_Uebung.dll
